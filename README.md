@@ -7,8 +7,6 @@
 
 **2G / GSM · 3G / UMTS · 4G / LTE · 5G**
 
-[Research Portfolio](https://github.com/AH-M-ED/Telco-security-research) 
-
 </div>
 
 ---
