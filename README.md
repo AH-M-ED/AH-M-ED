@@ -7,7 +7,7 @@
 
 **2G / GSM · 3G / UMTS · 4G / LTE · 5G**
 
-[Research Portfolio](https://github.com/AH-M-ED/Telco-security-research) · [Technical Publication](https://www.p1sec.com/blog/fuzzing-the-mobile-core-how-malformed-5g-4g-signaling-crashes-production-networks)
+[Research Portfolio](https://github.com/AH-M-ED/Telco-security-research) 
 
 </div>
 
