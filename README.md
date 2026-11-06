@@ -51,9 +51,12 @@ Published at P1 Security, May 2026.
 
 **Technologies:** 2G/3G Core, LTE/EPC, 5G Core, Kubernetes, OpenShift, Linux
 
-**Tools:** Python, Scapy, Wireshark, Nmap, Burp Suite, boofuzz, Open5GS, UERANSIM
-
 ---
+
+## Awards & Recognition
+
+- **Microsoft MSRC Top 100 Security Researchers (2018)** — Ranked **#36** at Black Hat USA. [Official Recognition](https://www.microsoft.com/en-us/msrc/blog/2018/08/microsofts-top-100-security-researchers-black-hat-2018-edition)
+- **Bugcrowd MVP Researcher (2017)** — Recognized for vulnerability research contributions. [Official Announcement](https://www.bugcrowd.com/blog/today-we-recognize-our-2017-mvp-researchers/) · [Bugcrowd Profile](https://bugcrowd.com/h/Web_Plus)
 
 <div align="center">
 
