@@ -45,7 +45,7 @@ Published at P1 Security, May 2026.
 
 ## Technical Focus
 
-**Protocols:** SS7, MAP, Diameter, GTP, PFCP, NGAP, S1AP, NAS, SCTP, HTTP/2
+**Protocols:** SS7, Diameter, GTP, PFCP, NGAP, S1AP, NAS, SCTP, HTTP/2 , X2AP, XNAP
 
 **Technologies:** 2G/3G Core, LTE/EPC, 5G Core, Kubernetes, OpenShift, Linux
 
